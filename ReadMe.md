@@ -1,32 +1,28 @@
 <h1 align="center">Hi 👋, I'm Louis Shinohara</h1>
-<h3 align="center">I enjoy coding</h3>
-
-<!-- 👨‍💻 Explore my portfolio at [ntsummers1.github.io/portfolio-2022/](https://ntsummers1.github.io/portfolio-2022/) -->
+<h3 align="center">Software Engineer focused on data platforms and distributed systems</h3>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies particularly in the JS space!\
-🎓 &nbsp;I've graduated in 2021 from Rutgers University with a Double Major in Electrical & Computer Engineering and Computer Science.\
-🌱 &nbsp;I'm currently studying system architecture, data structures, and algorithms. Check out my [leetcode!](https://leetcode.com/louishinohara/)\
-📫 &nbsp;How to reach me: **ushiolshinohara@gmail.com**.
-<!-- 📄 &nbsp;Know about my experiences: [ntsummers1.github.io/portfolio-2022/resume](https://ntsummers1.github.io/portfolio-2022/resume)\ -->
-✍️ &nbsp;My current goals are to become a better programmer. Know algorithms inside and out and use this knowledge to make clean, fast, and most importantly human-benefiting code. I want to make the world a better place one line at a time.
+💻 &nbsp;Software Engineer at Microsoft working on large-scale data platforms and infrastructure.  
+🎓 &nbsp;Graduated from Rutgers University with a double major in Electrical & Computer Engineering and Computer Science.  
+⚙️ &nbsp;I enjoy building reliable systems that process large amounts of data and power real-world products.  
+🧠 &nbsp;Recently exploring building personal tools and analytics dashboards integrated with AI to help organize information, automate tasks, and free up time for more meaningful work.  
+🌱 &nbsp;Currently exploring distributed systems, data infrastructure, and system design.  
+📫 &nbsp;Reach me at: **ushiolshinohara@gmail.com**
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=scala)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark)&nbsp;
+![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
